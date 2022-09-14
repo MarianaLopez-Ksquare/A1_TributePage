@@ -15,16 +15,11 @@ body {
 
 
 img {
-    width:  400px;
+    width:  500px;
     height: auto;
     border-radius: 10%;
 }
 h1.title {
     color: rgb(52, 23, 3);
 }
-article {
-    width: 40%;
-    margin-left:center;
-    margin-right: center;
-    text-align: justify;
-}
+
